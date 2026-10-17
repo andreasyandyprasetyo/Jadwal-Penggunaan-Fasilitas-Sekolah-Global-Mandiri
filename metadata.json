@@ -1,0 +1,6 @@
+{
+  "name": "Jadwal Fasilitas Sekolah Global Mandiri",
+  "description": "Sistem Informasi Jadwal Penggunaan Fasilitas Sekolah Global Mandiri untuk Guru dan Staf",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
